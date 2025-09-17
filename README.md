@@ -1,0 +1,2 @@
+# Breast-Cancer-Classification
+Na osnovu digitalizovanih slika biopsija, cilj je predvideti da li je tumor benigni ili maligni koristeći numeričke karakteristike ćelijskih jedara iz `data.csv`. Projekat zahteva analizu, vizualizaciju i interpretaciju ključnih faktora koji razlikuju maligne od benignih uzoraka.
